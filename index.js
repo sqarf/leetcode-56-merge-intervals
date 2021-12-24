@@ -22,7 +22,7 @@ console.log(
   merge([[1, 3], [2, 6], [8, 10], [15, 18]])
 )
 
-// Ex.1
+// Ex.2
 console.log(
   merge([[1, 4], [4, 5]])
 )
